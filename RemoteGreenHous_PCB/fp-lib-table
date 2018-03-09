@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Arduino)(type KiCad)(uri "$(KISYSMOD)/Arduino.pretty")(options "")(descr ""))
+  (lib (name CrumpPrints)(type Github)(uri https://github.com/tylercrumpton/CrumpPrints.pretty)(options "")(descr ""))
+)
